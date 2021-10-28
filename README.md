@@ -7,7 +7,7 @@
 😲 Fun Fact: Sou um grande fã dos filmes do *Rocky Balboa* 🥊
 
 
-<img align="center" alt="Gif" height="250" style="border-radius:100px;" src="https://media.giphy.com/media/Le5BxgkiTShtS/giphy.gif">
+<img align="center" alt="Gif" height="200" width='150' src="https://media.giphy.com/media/Le5BxgkiTShtS/giphy.gif">
 </div>
 <div style="display: inline_block"><br>
 <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
