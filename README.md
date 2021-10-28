@@ -4,7 +4,7 @@
 
 📖 Atualmente estou estudando *Git*, *algoritmos*, *lógica da programação* e *JavaScript*!
 
-😲 Fun Fact: I´m a huge fan of Rocky Balboa 🥊
+😲 Fun Fact: Sou um grande fã dos filmes do *Rocky Balboa* 🥊
 
 
 <img align="center" alt="Gif" height="250" style="border-radius:100px;" src="https://media.giphy.com/media/Le5BxgkiTShtS/giphy.gif">
