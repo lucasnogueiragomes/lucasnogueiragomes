@@ -4,6 +4,8 @@
 
 📖 Atualmente estou estudando *Git*, *algoritmos*, *lógica da programação* e *JavaScript*!
 
+👉 Acesse meu site de apresentação **[clicando aqui](https://lucasnogueiragomes.github.io/projeto-site/)!** 
+
 
   <img align='right' height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasnogueiragomes&layout=compact&langs_count=7&theme=dracula"/>
 </div>
