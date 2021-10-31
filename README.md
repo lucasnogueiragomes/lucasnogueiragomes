@@ -5,7 +5,7 @@
 📖 Atualmente estou estudando *Git*, *algoritmos*, *lógica da programação* e *JavaScript*!
 
 
-  <img align='right' height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasnogueiragomes&layout=compact&langs_count=7&theme=dracula"/>
+  <img align='right' height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasnogueiragomes&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <img align="center" alt="Gif" height="200" width='150' src="https://media.giphy.com/media/Le5BxgkiTShtS/giphy.gif">
 </div>
